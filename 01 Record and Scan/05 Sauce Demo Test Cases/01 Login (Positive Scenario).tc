@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>01 Login (Positive Scenario)</name>
+   <tag>GenAI</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f3a760fa-5720-4dbc-bfe8-329b7a3bbc79</testCaseGuid>
+</TestCaseEntity>

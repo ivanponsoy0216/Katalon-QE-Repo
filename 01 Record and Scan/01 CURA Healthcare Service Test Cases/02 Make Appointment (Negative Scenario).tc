@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>02 Make Appointment (Negative Scenario)</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>aebfa0e4-5c7f-46fd-8aab-28165415dd6f</testCaseGuid>
+</TestCaseEntity>

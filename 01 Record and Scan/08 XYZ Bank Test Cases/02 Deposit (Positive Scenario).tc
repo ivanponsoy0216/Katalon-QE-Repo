@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>02 Deposit (Positive Scenario)</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>cf2c909c-4d3c-4675-bcf5-d184ea7348b6</testCaseGuid>
+</TestCaseEntity>
