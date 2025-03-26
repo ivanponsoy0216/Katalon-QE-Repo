@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>02 Make Appointment (Positive Scenario)</name>
-   <tag></tag>
-   <comment></comment>
-   <recordOption>OTHER</recordOption>
-   <testCaseGuid>199f5b5d-3d12-41e2-ae4d-f6efaa2a195e</testCaseGuid>
-</TestCaseEntity>

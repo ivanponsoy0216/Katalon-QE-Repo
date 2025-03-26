@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>03 Logout (Positive Scenario)</name>
-   <tag></tag>
-   <comment></comment>
-   <recordOption>OTHER</recordOption>
-   <testCaseGuid>20614a44-945a-46de-bbdd-85f8aaaeca70</testCaseGuid>
-</TestCaseEntity>

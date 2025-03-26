@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>03 Add to Cart (Positive Scenario - Bird)</name>
-   <tag></tag>
-   <comment></comment>
-   <recordOption>OTHER</recordOption>
-   <testCaseGuid>ac25ca3d-bfcb-430d-b93d-8b1294b37f30</testCaseGuid>
-</TestCaseEntity>

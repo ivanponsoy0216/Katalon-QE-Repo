@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>01 Customer Login (Positive Scenario)</name>
-   <tag></tag>
-   <comment></comment>
-   <recordOption>OTHER</recordOption>
-   <testCaseGuid>8a8addbb-2b1c-42ec-afaf-9d61c6ba6d05</testCaseGuid>
-</TestCaseEntity>

@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>01 Registration (Negative Scenario)</name>
-   <tag></tag>
-   <comment></comment>
-   <recordOption>OTHER</recordOption>
-   <testCaseGuid>4ed9fde9-3669-44b4-910f-8fc66ed7e5f5</testCaseGuid>
-</TestCaseEntity>

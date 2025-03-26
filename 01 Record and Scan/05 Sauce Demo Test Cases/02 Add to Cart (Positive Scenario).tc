@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>02 Add to Cart (Positive Scenario)</name>
-   <tag></tag>
-   <comment></comment>
-   <recordOption>OTHER</recordOption>
-   <testCaseGuid>3b784676-1de7-4f05-80bc-fb5efba1d101</testCaseGuid>
-</TestCaseEntity>

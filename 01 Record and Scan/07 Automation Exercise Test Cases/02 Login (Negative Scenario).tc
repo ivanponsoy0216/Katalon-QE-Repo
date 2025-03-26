@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>02 Login (Negative Scenario)</name>
-   <tag></tag>
-   <comment></comment>
-   <recordOption>OTHER</recordOption>
-   <testCaseGuid>4be78a35-eb71-4556-8c2d-2ebc54f97502</testCaseGuid>
-</TestCaseEntity>
